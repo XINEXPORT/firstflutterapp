@@ -1,6 +1,6 @@
-# My First flutter app
+# My First Flutter app
 
-My Flutter project based on the tutorial below
+My Flutter project based on this tutorial
 https://www.youtube.com/watch?v=8sAyPDLorek
 
 ## Getting Started
