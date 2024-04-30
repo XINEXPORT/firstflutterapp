@@ -1,6 +1,7 @@
-# flutter_application_1
+# My First flutter app
 
-A new Flutter project.
+My Flutter project based on the tutorial below
+https://www.youtube.com/watch?v=8sAyPDLorek
 
 ## Getting Started
 
